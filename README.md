@@ -1,4 +1,4 @@
-📊 **Marketing Analytics (Power BI, SQL, Python)**
+📊 **Full-Stack Marketing Analytics & Conversion Optimization (Power BI, SQL, Python)**
 ________________________________________
 📖 **Project Overview**
 
